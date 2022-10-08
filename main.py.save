@@ -1,0 +1,16 @@
+from selenium import webdriver, By
+from dotenv import load_dotenv
+import os
+
+load_dotenv("/home/adrielom/Área de Trabalho/selenium_test/.env")
+
+user = os.getenv("USR")
+password = os.getenv("PASSWORD")
+
+login_field = 
+
+firefox = webdriver.Firefox()
+targetURL = "https://app.genyo.com.br/?aba=abaColaborador"
+
+firefox.get(targetURL)
+
