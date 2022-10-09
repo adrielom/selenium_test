@@ -2026,3 +2026,1234 @@ Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
 1665196532989	Marionette	INFO	Stopped listening on port 38329
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665221363976	geckodriver	INFO	Listening on 127.0.0.1:46461
+1665221364485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCwvHmP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665221366346	Marionette	INFO	Marionette enabled
+1665221366354	Marionette	INFO	Listening on port 46475
+Read port: 46475
+WebDriver BiDi listening on ws://127.0.0.1:55039
+1665221366618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCwvHmP/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55039/devtools/browser/ed32df95-5416-4c16-a680-60c90b1887da
+1665221404532	geckodriver	INFO	Listening on 127.0.0.1:42297
+1665221404540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileswcplq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665221405831	Marionette	INFO	Marionette enabled
+1665221405839	Marionette	INFO	Listening on port 35687
+Read port: 35687
+WebDriver BiDi listening on ws://127.0.0.1:44519
+1665221406059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileswcplq/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44519/devtools/browser/e16123aa-8516-46c7-b63d-ce49ac9075ff
+1665221432310	geckodriver	INFO	Listening on 127.0.0.1:60669
+1665221432318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHDkuZn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665221433665	Marionette	INFO	Marionette enabled
+1665221433674	Marionette	INFO	Listening on port 46157
+Read port: 46157
+WebDriver BiDi listening on ws://127.0.0.1:49813
+1665221433904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHDkuZn/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49813/devtools/browser/afaee20a-1623-439b-b37f-eb0fedb7d0aa
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665221439342	Marionette	INFO	Stopped listening on port 46157
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665221451900	geckodriver	INFO	Listening on 127.0.0.1:39695
+1665221451908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4u0hbF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665221453211	Marionette	INFO	Marionette enabled
+1665221453218	Marionette	INFO	Listening on port 41367
+Read port: 41367
+WebDriver BiDi listening on ws://127.0.0.1:34291
+1665221453439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4u0hbF/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34291/devtools/browser/021b0403-9af7-4399-a458-88a9c892f9ec
+1665221462036	geckodriver	INFO	Listening on 127.0.0.1:37115
+1665221462046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNTJcWK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665221463397	Marionette	INFO	Marionette enabled
+1665221463404	Marionette	INFO	Listening on port 42541
+Read port: 42541
+WebDriver BiDi listening on ws://127.0.0.1:59977
+1665221463641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNTJcWK/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59977/devtools/browser/ad85d5c9-a1c5-4ef8-a918-6fded84cdd8b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665221486128	Marionette	INFO	Stopped listening on port 42541
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665222055800	Marionette	INFO	Stopped listening on port 41367
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665222059211	Marionette	INFO	Stopped listening on port 46475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665222062580	Marionette	INFO	Stopped listening on port 35687
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665238520713	geckodriver	INFO	Listening on 127.0.0.1:35119
+1665238521225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9ykSFU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665238523020	Marionette	INFO	Marionette enabled
+1665238523030	Marionette	INFO	Listening on port 41757
+Read port: 41757
+WebDriver BiDi listening on ws://127.0.0.1:33173
+1665238523314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9ykSFU/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33173/devtools/browser/f921304e-e00f-41db-9ee7-cc9646d68507
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665238720098	Marionette	INFO	Stopped listening on port 41757
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665238778755	geckodriver	INFO	Listening on 127.0.0.1:42285
+1665238778762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLR2ouv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665238780035	Marionette	INFO	Marionette enabled
+1665238780043	Marionette	INFO	Listening on port 34229
+Read port: 34229
+WebDriver BiDi listening on ws://127.0.0.1:33555
+1665238780262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLR2ouv/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33555/devtools/browser/59574db0-20db-4ecb-b94f-5e08d880fef6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665238792783	Marionette	INFO	Stopped listening on port 34229
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665238813925	geckodriver	INFO	Listening on 127.0.0.1:43483
+1665238813933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7n78BE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665238815226	Marionette	INFO	Marionette enabled
+1665238815234	Marionette	INFO	Listening on port 44967
+Read port: 44967
+WebDriver BiDi listening on ws://127.0.0.1:42623
+1665238815454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7n78BE/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42623/devtools/browser/ba739290-3c76-4d15-ab8b-13b67a01186a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1056: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665238996426	geckodriver	INFO	Listening on 127.0.0.1:54497
+1665238996433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecRw31q"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665238997749	Marionette	INFO	Marionette enabled
+1665238997757	Marionette	INFO	Listening on port 35099
+Read port: 35099
+WebDriver BiDi listening on ws://127.0.0.1:52053
+1665238997977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecRw31q/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52053/devtools/browser/bfad001c-6f23-4d60-b73f-e302b4576d31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1056: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665239019537	Marionette	INFO	Stopped listening on port 35099
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665239021776	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1665239023458	geckodriver	INFO	Listening on 127.0.0.1:40427
+1665239023465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewlHWNk"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665239024750	Marionette	INFO	Marionette enabled
+1665239024758	Marionette	INFO	Listening on port 39615
+Read port: 39615
+WebDriver BiDi listening on ws://127.0.0.1:52001
+1665239024998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewlHWNk/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52001/devtools/browser/68403efa-be4a-4bf5-a639-22969b9b52fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1056: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665239040038	Marionette	INFO	Stopped listening on port 39615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665239061793	geckodriver	INFO	Listening on 127.0.0.1:41159
+1665239061801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVxJS1o"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665239063128	Marionette	INFO	Marionette enabled
+1665239063135	Marionette	INFO	Listening on port 39725
+Read port: 39725
+WebDriver BiDi listening on ws://127.0.0.1:39977
+1665239063359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVxJS1o/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39977/devtools/browser/c8b35262-9e4c-4d45-ac8e-a77356d603ea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1056: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665239082753	Marionette	INFO	Stopped listening on port 39725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665239085603	geckodriver	INFO	Listening on 127.0.0.1:52219
+1665239085611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9DDtFv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665239087020	Marionette	INFO	Marionette enabled
+1665239087029	Marionette	INFO	Listening on port 33323
+Read port: 33323
+WebDriver BiDi listening on ws://127.0.0.1:50895
+1665239087262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9DDtFv/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50895/devtools/browser/fadca8f6-6764-4794-ae05-769d2fcaae93
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1056: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665239179848	geckodriver	INFO	Listening on 127.0.0.1:60485
+1665239179857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileItmhBa"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665239181151	Marionette	INFO	Marionette enabled
+1665239181159	Marionette	INFO	Listening on port 33165
+Read port: 33165
+WebDriver BiDi listening on ws://127.0.0.1:43039
+1665239181387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileItmhBa/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43039/devtools/browser/23090755-d405-4580-a041-72723d30d5cc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665239416220	geckodriver	INFO	Listening on 127.0.0.1:39995
+1665239416228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileET02Uc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665239417576	Marionette	INFO	Marionette enabled
+1665239417584	Marionette	INFO	Listening on port 35373
+Read port: 35373
+WebDriver BiDi listening on ws://127.0.0.1:53791
+1665239417803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileET02Uc/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53791/devtools/browser/e18022ce-6401-440a-a1e9-ba9491bf5914
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665340736909	geckodriver	INFO	Listening on 127.0.0.1:42337
+1665340737416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNVQLfv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665340739464	Marionette	INFO	Marionette enabled
+1665340739481	Marionette	INFO	Listening on port 45763
+Read port: 45763
+WebDriver BiDi listening on ws://127.0.0.1:40819
+1665340739843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNVQLfv/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40819/devtools/browser/b14d868a-1cfa-4381-9460-5e9f571aa636
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+1665341035160	Marionette	INFO	Stopped listening on port 45763
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665341037321	geckodriver	INFO	Listening on 127.0.0.1:51031
+1665341037329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexvzTqk"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665341038714	Marionette	INFO	Marionette enabled
+1665341038723	Marionette	INFO	Listening on port 43733
+Read port: 43733
+WebDriver BiDi listening on ws://127.0.0.1:46219
+1665341038983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexvzTqk/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46219/devtools/browser/ad31f0dc-1b7f-4d24-a5d2-08e661ab29b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665341421513	Marionette	INFO	Stopped listening on port 43733
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665341425778	geckodriver	INFO	Listening on 127.0.0.1:45731
+1665341425786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilex9uQsR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665341427135	Marionette	INFO	Marionette enabled
+1665341427143	Marionette	INFO	Listening on port 38221
+Read port: 38221
+WebDriver BiDi listening on ws://127.0.0.1:59217
+1665341427370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex9uQsR/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59217/devtools/browser/90a78da3-bf71-4523-93fa-98c4d4fa1184
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665341440353	geckodriver	INFO	Listening on 127.0.0.1:59413
+1665341440360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLgyJO4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665341441791	Marionette	INFO	Marionette enabled
+1665341441799	Marionette	INFO	Listening on port 41177
+Read port: 41177
+WebDriver BiDi listening on ws://127.0.0.1:58847
+1665341442044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLgyJO4/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58847/devtools/browser/18ff90c4-4dd7-44a8-9218-d618564ebd5d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665341459402	geckodriver	INFO	Listening on 127.0.0.1:33055
+1665341459409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebWvgHa"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665341460839	Marionette	INFO	Marionette enabled
+1665341460846	Marionette	INFO	Listening on port 41033
+Read port: 41033
+WebDriver BiDi listening on ws://127.0.0.1:37407
+1665341461075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebWvgHa/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:37407/devtools/browser/bda23dc8-03d1-478b-89c8-88f8e7b980d6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665341482231	geckodriver	INFO	Listening on 127.0.0.1:52853
+1665341482242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledIuq1w"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665341483580	Marionette	INFO	Marionette enabled
+1665341483589	Marionette	INFO	Listening on port 41427
+Read port: 41427
+WebDriver BiDi listening on ws://127.0.0.1:53775
+1665341483847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledIuq1w/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53775/devtools/browser/86aa0868-c118-458a-b5cc-60a49d11c401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665341510032	geckodriver	INFO	Listening on 127.0.0.1:55123
+1665341510045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDUBmTd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665341511368	Marionette	INFO	Marionette enabled
+1665341511375	Marionette	INFO	Listening on port 39363
+Read port: 39363
+WebDriver BiDi listening on ws://127.0.0.1:46719
+1665341511595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDUBmTd/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46719/devtools/browser/787eb4f1-bba5-4f0a-8d1a-7605d0714286
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665341533183	Marionette	INFO	Stopped listening on port 39363
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665341618455	geckodriver	INFO	Listening on 127.0.0.1:42055
+1665341618462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4Puz7R"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665341619725	Marionette	INFO	Marionette enabled
+1665341619733	Marionette	INFO	Listening on port 33593
+Read port: 33593
+WebDriver BiDi listening on ws://127.0.0.1:49785
+1665341619947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4Puz7R/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49785/devtools/browser/7031182e-2003-4002-8015-7564351a96cb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665341658738	geckodriver	INFO	Listening on 127.0.0.1:42817
+1665341658746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0agbL5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665341660034	Marionette	INFO	Marionette enabled
+1665341660045	Marionette	INFO	Listening on port 39219
+Read port: 39219
+WebDriver BiDi listening on ws://127.0.0.1:41261
+1665341660306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0agbL5/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41261/devtools/browser/1dd9e9cd-cbbb-437a-9bc2-f5a4468c4da7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665341789599	geckodriver	INFO	Listening on 127.0.0.1:51673
+1665341789608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJu9xiG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665341790905	Marionette	INFO	Marionette enabled
+1665341790912	Marionette	INFO	Listening on port 42199
+Read port: 42199
+WebDriver BiDi listening on ws://127.0.0.1:40503
+1665341791127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJu9xiG/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40503/devtools/browser/946de678-f399-41d4-aec7-ed2e8f53f1c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665341818613	Marionette	INFO	Stopped listening on port 42199
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665341909380	geckodriver	INFO	Listening on 127.0.0.1:42079
+1665341909387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuA9jsH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665341910691	Marionette	INFO	Marionette enabled
+1665341910699	Marionette	INFO	Listening on port 43087
+Read port: 43087
+WebDriver BiDi listening on ws://127.0.0.1:45537
+1665341910916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuA9jsH/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:45537/devtools/browser/8bb6c55c-67d1-401c-9bc8-5b73d8d8dde5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665341928138	Marionette	INFO	Stopped listening on port 43087
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665341982001	geckodriver	INFO	Listening on 127.0.0.1:60915
+1665341982009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegwnjhU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665341983379	Marionette	INFO	Marionette enabled
+1665341983387	Marionette	INFO	Listening on port 33735
+Read port: 33735
+WebDriver BiDi listening on ws://127.0.0.1:59311
+1665341983645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegwnjhU/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59311/devtools/browser/469b3264-684d-4abf-b5ac-baadba768d8e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665342029569	geckodriver	INFO	Listening on 127.0.0.1:42579
+1665342029577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIOZMHW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665342030849	Marionette	INFO	Marionette enabled
+1665342030857	Marionette	INFO	Listening on port 43333
+Read port: 43333
+WebDriver BiDi listening on ws://127.0.0.1:49119
+1665342031072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIOZMHW/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49119/devtools/browser/bde4237f-f750-4f4c-8d4d-95860e2fa875
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665342042243	Marionette	INFO	Stopped listening on port 43333
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665342644690	geckodriver	INFO	Listening on 127.0.0.1:38285
+1665342644698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUzoVih"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665342645978	Marionette	INFO	Marionette enabled
+1665342645986	Marionette	INFO	Listening on port 33889
+Read port: 33889
+WebDriver BiDi listening on ws://127.0.0.1:59847
+1665342646201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUzoVih/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59847/devtools/browser/ecd14100-d7d7-41fe-b823-a79381d75f0d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665342692809	Marionette	INFO	Stopped listening on port 33889
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665342695019	geckodriver	INFO	Listening on 127.0.0.1:41787
+1665342695026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFfPS4u"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665342696303	Marionette	INFO	Marionette enabled
+1665342696310	Marionette	INFO	Listening on port 36349
+Read port: 36349
+WebDriver BiDi listening on ws://127.0.0.1:54087
+1665342696526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFfPS4u/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54087/devtools/browser/46952eb5-92b2-4319-92dd-780d50f99ba0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665342723402	Marionette	INFO	Stopped listening on port 36349
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665342775362	geckodriver	INFO	Listening on 127.0.0.1:51977
+1665342775370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerQdgT7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665342776645	Marionette	INFO	Marionette enabled
+1665342776652	Marionette	INFO	Listening on port 37551
+Read port: 37551
+WebDriver BiDi listening on ws://127.0.0.1:50155
+1665342776868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerQdgT7/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50155/devtools/browser/fa13b4c8-f99d-4c61-b101-424cd6e90fb9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 441 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665342820131	geckodriver	INFO	Listening on 127.0.0.1:57011
+1665342820138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOvtCjv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665342821444	Marionette	INFO	Marionette enabled
+1665342821452	Marionette	INFO	Listening on port 45333
+Read port: 45333
+WebDriver BiDi listening on ws://127.0.0.1:33919
+1665342821679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOvtCjv/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33919/devtools/browser/098b00d3-b58d-4007-8fd0-b178ed6de2f0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665342928822	geckodriver	INFO	Listening on 127.0.0.1:43281
+1665342928830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6jGCId"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665342930169	Marionette	INFO	Marionette enabled
+1665342930176	Marionette	INFO	Listening on port 34213
+Read port: 34213
+WebDriver BiDi listening on ws://127.0.0.1:48539
+1665342930405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6jGCId/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48539/devtools/browser/30185ac6-092a-497c-b69c-3da92dd62fea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665343269931	geckodriver	INFO	Listening on 127.0.0.1:37293
+1665343269939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileX3FhU8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665343271380	Marionette	INFO	Marionette enabled
+1665343271389	Marionette	INFO	Listening on port 38825
+Read port: 38825
+WebDriver BiDi listening on ws://127.0.0.1:58839
+1665343271636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX3FhU8/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58839/devtools/browser/c2259047-ccf0-4407-97e0-ee226fb36d97
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 157: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665343886836	Marionette	INFO	Stopped listening on port 38825
+1665344027571	geckodriver	INFO	Listening on 127.0.0.1:47937
+1665344027578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaIfFg4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665344028858	Marionette	INFO	Marionette enabled
+1665344028866	Marionette	INFO	Listening on port 41049
+Read port: 41049
+WebDriver BiDi listening on ws://127.0.0.1:47501
+1665344029099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaIfFg4/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47501/devtools/browser/c720f5d8-b0e5-4562-8823-de78d72d6b32
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665344174280	geckodriver	INFO	Listening on 127.0.0.1:40575
+1665344174287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTCx0x9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665344175570	Marionette	INFO	Marionette enabled
+1665344175577	Marionette	INFO	Listening on port 38067
+Read port: 38067
+WebDriver BiDi listening on ws://127.0.0.1:49989
+1665344175803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTCx0x9/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49989/devtools/browser/5befbbfa-2d63-4b3d-a0a3-c721d3720bd5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665344212119	geckodriver	INFO	Listening on 127.0.0.1:51129
+1665344212127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5EkotV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665344213400	Marionette	INFO	Marionette enabled
+1665344213407	Marionette	INFO	Listening on port 45393
+Read port: 45393
+WebDriver BiDi listening on ws://127.0.0.1:57063
+1665344213629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5EkotV/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57063/devtools/browser/cf747f67-c4fe-4331-90b3-e3c224fd67fd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665344263130	geckodriver	INFO	Listening on 127.0.0.1:45195
+1665344263138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVyshas"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665344264413	Marionette	INFO	Marionette enabled
+1665344264421	Marionette	INFO	Listening on port 44813
+Read port: 44813
+WebDriver BiDi listening on ws://127.0.0.1:41357
+1665344264644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVyshas/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41357/devtools/browser/6d4a4f4e-841d-4913-940f-f5d1e729df50
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665344342907	geckodriver	INFO	Listening on 127.0.0.1:48515
+1665344342915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepC8yxB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665344344189	Marionette	INFO	Marionette enabled
+1665344344202	Marionette	INFO	Listening on port 41907
+Read port: 41907
+WebDriver BiDi listening on ws://127.0.0.1:48435
+1665344344470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepC8yxB/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48435/devtools/browser/202d620d-2580-4836-a8f1-dfad1ec3a191
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665344462617	geckodriver	INFO	Listening on 127.0.0.1:53199
+1665344462624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilei3QIG9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665344463926	Marionette	INFO	Marionette enabled
+1665344463933	Marionette	INFO	Listening on port 35165
+Read port: 35165
+WebDriver BiDi listening on ws://127.0.0.1:53015
+1665344464149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei3QIG9/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53015/devtools/browser/5825a01e-2b20-4071-b152-02ca0d2b4f6f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665344766086	geckodriver	INFO	Listening on 127.0.0.1:49769
+1665344766091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileN1RlpH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665344767060	Marionette	INFO	Marionette enabled
+1665344767065	Marionette	INFO	Listening on port 35863
+Read port: 35863
+WebDriver BiDi listening on ws://127.0.0.1:47085
+1665344767225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN1RlpH/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47085/devtools/browser/b0ec03f9-4464-4ce2-a2bf-673181a922f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665344805924	Marionette	INFO	Stopped listening on port 41907
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665344807731	Marionette	INFO	Stopped listening on port 44813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665344809097	geckodriver	INFO	Listening on 127.0.0.1:43203
+1665344809104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCMGMOl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665344810124	Marionette	INFO	Marionette enabled
+1665344810129	Marionette	INFO	Listening on port 38651
+Read port: 38651
+WebDriver BiDi listening on ws://127.0.0.1:54091
+1665344810268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCMGMOl/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54091/devtools/browser/c8eb83a8-960f-46d9-bef4-71ccf72ed96e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665344923792	Marionette	INFO	Stopped listening on port 38651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665344925995	geckodriver	INFO	Listening on 127.0.0.1:51577
+1665344926008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevJDMCH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665344926909	Marionette	INFO	Marionette enabled
+1665344926914	Marionette	INFO	Listening on port 39455
+Read port: 39455
+WebDriver BiDi listening on ws://127.0.0.1:43595
+1665344927080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevJDMCH/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43595/devtools/browser/06ca38b4-d5e0-4afb-8625-f0d4342d09d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1665344950999	geckodriver	INFO	Listening on 127.0.0.1:42501
+1665344951005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewwr238"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665344951915	Marionette	INFO	Marionette enabled
+1665344951919	Marionette	INFO	Listening on port 33873
+Read port: 33873
+WebDriver BiDi listening on ws://127.0.0.1:43299
+1665344952066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewwr238/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:43299/devtools/browser/196e77d8-4108-45d5-b74a-ecd86e65b5ff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+1665345039097	Marionette	INFO	Stopped listening on port 33873
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665345040906	geckodriver	INFO	Listening on 127.0.0.1:46787
+1665345040912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemT6YC5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665345041825	Marionette	INFO	Marionette enabled
+1665345041830	Marionette	INFO	Listening on port 43061
+Read port: 43061
+WebDriver BiDi listening on ws://127.0.0.1:54449
+1665345041985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemT6YC5/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54449/devtools/browser/afdf9cc0-d436-45b9-8b2e-6738bc5f9aa7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665345060111	Marionette	INFO	Stopped listening on port 43061
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665345064995	geckodriver	INFO	Listening on 127.0.0.1:36033
+1665345065001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0GCWNN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665345065913	Marionette	INFO	Marionette enabled
+1665345065918	Marionette	INFO	Listening on port 42537
+Read port: 42537
+WebDriver BiDi listening on ws://127.0.0.1:53645
+1665345066061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0GCWNN/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:53645/devtools/browser/a7125b1e-98d5-4288-8074-8c103fa1bdc6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665345082119	Marionette	INFO	Stopped listening on port 42537
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665345089333	geckodriver	INFO	Listening on 127.0.0.1:50207
+1665345089338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1pCk7v"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665345090215	Marionette	INFO	Marionette enabled
+1665345090219	Marionette	INFO	Listening on port 38159
+Read port: 38159
+WebDriver BiDi listening on ws://127.0.0.1:39149
+1665345090372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1pCk7v/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39149/devtools/browser/59345faf-2072-4f71-b491-717f770827f0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+JavaScript error: https://app.genyo.com.br/?aba=abaColaborador line 412 > injectedScript, line 1: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.genyo.com.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1665345115514	Marionette	INFO	Stopped listening on port 38159
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
